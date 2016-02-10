@@ -1,0 +1,103 @@
+
+.head{
+    background-color: #140a0a;
+    height:30%;
+}
+.head1{
+    padding-top:3%;
+    padding-bottom: 3%;
+    height: 10%;
+}
+.logo{
+    padding-top: 1%;
+}
+.social{
+    
+ padding-top: 5px;
+}
+.s-icons{
+    color:white;
+    padding:10px;
+     border-radius:50%;
+     
+    
+}
+.s-icons2{
+   
+    background-color: blue;
+    
+}
+.s-icons1{
+   
+    background-color: skyblue;
+    
+}
+.s-icons3{
+   
+    background-color: orange;
+    
+}
+.s-icons:hover{
+    background-color: white;
+    color:grey;
+}
+.s-icons4{
+   
+    background-color: red;
+    
+}
+.s-icons5{
+   
+    background-color:#f39417
+    
+}
+.bttn{
+    color:white;
+}
+.bttn:hover{
+    color:red;
+    background-color: white;
+   
+}
+.form-control{
+   background-color: black;
+   border-color: black;
+}
+.body-1{
+    background-color: white;
+    
+}
+.menu1{
+    background-color: white;
+    color:black;
+   border-color: white;
+}
+
+.menu1:hover{
+    color:red;
+}
+.bodyy{
+    background-color: #e1e2e2;
+}
+.img{
+    width:100%;
+}
+.socio{
+    width:14%;
+    height:50%;
+    float: left;
+} 
+.img-name{
+   position: absolute;
+   top:70%;
+   width:83%;
+   height:30%;
+   color:white;
+   opacity: 0.5;
+   background-color: black;
+   font-size:17px;
+}
+.img-name:hover{
+   
+    color:#f50709;
+}
