@@ -1,0 +1,53 @@
+.a{
+    height:auto;
+    width: 100px;
+    float: left;
+}
+.b{
+    height:auto;
+    width:650px;
+    float: left;
+}
+.a1{
+    height:50px;
+    text-align: left;
+}
+.b1{
+    height:50px;
+   
+    text-align: left;
+}
+.ab{
+  
+   align-self: center;
+    margin-left: 300px;
+    text-align: center;
+   
+}
+.bg{
+    background-color:#9df59b;
+  
+}
+.b2{
+    height:22px;
+    width:20%;
+    float:left;
+    text-align: left;
+    
+    color: #3b3922
+}
+.bb{
+    height:122px;
+    width:700px;
+  
+}
+.b3{height:22px;
+    width:5%;
+     text-align: left;
+     float: left;
+}
+.b4{
+    width: 14%;
+    float:left;
+    height:122px;
+}
